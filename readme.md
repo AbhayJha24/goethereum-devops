@@ -1,7 +1,7 @@
 # Documentation
 ---
 ## How to run this ?
-####First run this to get an image form the docker file
+#### First run this to get an image form the docker file
 ```
 sudo docker build -t geth -f <path_to_dockerfile>
 ```
